@@ -350,8 +350,6 @@
       text-decoration: none;
     }
     
-    .todos {
-    }
     
     .todos .todo {
       -ms-grid-columns: 50px var(--mobile-todo-text-width) 50px;
